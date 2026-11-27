@@ -1,0 +1,95 @@
+{
+  "slug": "masons-place-grooming-fwb",
+  "name": "Mason's Place Grooming by Jennifer",
+  "category": "Dog grooming",
+  "schema_type": "LocalBusiness",
+  "city": "Fort Walton Beach",
+  "state": "FL",
+  "address": "909 Don Dr, Fort Walton Beach, FL 32547",
+  "phone": "(850) 465-2187",
+  "rating": 4.8,
+  "reviews": 102,
+  "theme": "blush",
+  "cta_label": "Book a Groom",
+  "headline": "Gentle grooming for the dogs you love",
+  "subheadline": "Baths, haircuts, nails and ears in Fort Walton Beach. 4.8 stars from 102 Google reviews.",
+  "intro_eyebrow": "Welcome",
+  "intro_title": "Affordable, caring and personal",
+  "intro": "Mason's Place is a local Fort Walton Beach groomer known for personalized, compassionate care. Clients say the team genuinely cares about every dog, keeps a calm and safe atmosphere, and does beautiful work at a price that's easy on the wallet.",
+  "hero_video_id": 45890,
+  "services_title": "Grooming services",
+  "services": [
+    {
+      "name": "Full-service grooming",
+      "desc": "Bath, blow dry, haircut and finishing touches for a fresh, happy pup.",
+      "image_id": 45887
+    },
+    {
+      "name": "Bath & blow dry",
+      "desc": "A thorough wash and fluff to keep coats clean and soft.",
+      "image_id": 45886
+    },
+    {
+      "name": "Nail trimming",
+      "desc": "Careful nail trims done calmly and safely.",
+      "image_id": 45891
+    },
+    {
+      "name": "Ear cleaning & gland expression",
+      "desc": "The hygiene details that keep dogs comfortable.",
+      "image_id": 45888
+    }
+  ],
+  "broll_eyebrow": "In the details",
+  "broll_title": "Calm hands, happy dogs",
+  "broll": [
+    {
+      "id": 45884,
+      "caption": "Brushing out"
+    },
+    {
+      "id": 45883,
+      "caption": "Trimming with care"
+    },
+    {
+      "id": 45885,
+      "caption": "Bath time"
+    }
+  ],
+  "praise": [
+    {
+      "title": "They genuinely care",
+      "text": "Reviewers say the staff treats their dogs like family and it shows."
+    },
+    {
+      "title": "Affordable prices",
+      "text": "Clients repeatedly mention great pricing for the quality of the groom."
+    },
+    {
+      "title": "Safe, calm atmosphere",
+      "text": "Owners of excitable and nervous dogs feel comfortable leaving them here."
+    },
+    {
+      "title": "Adorable results",
+      "text": "People love how their dogs look after every appointment."
+    }
+  ],
+  "gallery_ids": [
+    45890,
+    45887,
+    45886,
+    45884,
+    1664,
+    45889
+  ],
+  "hours": [
+    [
+      "Appointments",
+      "Call (850) 465-2187"
+    ],
+    [
+      "Location",
+      "909 Don Dr, Fort Walton Beach"
+    ]
+  ]
+}

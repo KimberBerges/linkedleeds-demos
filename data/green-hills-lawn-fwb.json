@@ -1,0 +1,95 @@
+{
+  "slug": "green-hills-lawn-fwb",
+  "name": "Green Hills Lawn Service",
+  "category": "Lawn care service",
+  "schema_type": "HomeAndConstructionBusiness",
+  "city": "Fort Walton Beach",
+  "state": "FL",
+  "address": "Fort Walton Beach, FL 32548 (serving Fort Walton Beach, Niceville, Navarre, Valparaiso, Mary Esther & Destin)",
+  "phone": "(850) 225-1705",
+  "rating": 5.0,
+  "reviews": 53,
+  "theme": "forest",
+  "cta_label": "Call or Text for a Quote",
+  "headline": "A yard you're proud to come home to",
+  "subheadline": "Mowing, edging, hedges, mulch and sod across Fort Walton Beach and nearby. 5.0 stars from 53 Google reviews.",
+  "intro_eyebrow": "About",
+  "intro_title": "More than just lawn cutting",
+  "intro": "Green Hills Lawn Service is a local Fort Walton Beach lawn crew that customers describe as dependable, responsive and easy to talk to. From routine mowing to full yard clean-ups, the goal is a property that looks sharp every single week.",
+  "hero_video_id": 14383,
+  "services_title": "Lawn and yard services",
+  "services": [
+    {
+      "name": "Lawn mowing & maintenance",
+      "desc": "Front and back mowing with clean edging on a regular schedule.",
+      "image_id": 47172
+    },
+    {
+      "name": "Hedge & shrub trimming",
+      "desc": "Shaped shrubs and hedges that keep the property looking tidy.",
+      "image_id": 43697
+    },
+    {
+      "name": "Mulching & sod installation",
+      "desc": "Fresh mulch beds and new sod to bring tired areas back to life.",
+      "image_id": 4776
+    },
+    {
+      "name": "Leaf clean-up & yard work",
+      "desc": "Seasonal clean-ups and the jobs that have been piling up.",
+      "image_id": 10472
+    }
+  ],
+  "broll_eyebrow": "On the job",
+  "broll_title": "Sharp lines, clean yards",
+  "broll": [
+    {
+      "id": 47172,
+      "caption": "Weekly mowing"
+    },
+    {
+      "id": 10472,
+      "caption": "Yard clean-ups"
+    },
+    {
+      "id": 43702,
+      "caption": "Beds and planting"
+    }
+  ],
+  "praise": [
+    {
+      "title": "Dependable every visit",
+      "text": "Customers say the crew shows up on schedule and gets the job done efficiently."
+    },
+    {
+      "title": "Great communication",
+      "text": "Reviewers mention quick replies and a team that handles extra requests without fuss."
+    },
+    {
+      "title": "Fair pricing",
+      "text": "Several clients call the pricing more than fair for the quality of the work."
+    },
+    {
+      "title": "Perfectly cut and edged",
+      "text": "People love how clean and finished the yard looks after each visit."
+    }
+  ],
+  "gallery_ids": [
+    14383,
+    47172,
+    4776,
+    43697,
+    10475,
+    40656
+  ],
+  "hours": [
+    [
+      "Quotes",
+      "Call or text (850) 225-1705"
+    ],
+    [
+      "Service area",
+      "Fort Walton Beach & nearby"
+    ]
+  ]
+}

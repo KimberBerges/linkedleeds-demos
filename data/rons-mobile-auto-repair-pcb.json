@@ -1,0 +1,95 @@
+{
+  "slug": "rons-mobile-auto-repair-pcb",
+  "name": "Ron's Mobile Auto Repair",
+  "category": "Mobile auto repair",
+  "schema_type": "AutoRepair",
+  "city": "Panama City Beach",
+  "state": "FL",
+  "address": "Panama City Beach, FL 32413 (serving PCB & 30A)",
+  "phone": "(850) 326-4520",
+  "rating": 4.8,
+  "reviews": 180,
+  "theme": "navy",
+  "cta_label": "Call Ron",
+  "headline": "On-site auto repair in Panama City Beach",
+  "subheadline": "Tires, batteries, brakes, A/C, starters and inspections wherever you are. 4.8 stars from 180 Google reviews.",
+  "intro_eyebrow": "About",
+  "intro_title": "Over 37 years of honest repairs",
+  "intro": "Ron's Mobile Auto Repair brings the shop to you across Panama City Beach and 30A. Locals and stranded visitors alike say Ron saves the day with fair prices, honest advice and quick roadside fixes.",
+  "hero_video_id": 4716,
+  "services_title": "Mobile repair services",
+  "services": [
+    {
+      "name": "Tire repair",
+      "desc": "Flat or nail in the tire? Plugged and back on the road.",
+      "image_id": 13180
+    },
+    {
+      "name": "Batteries & starters",
+      "desc": "Battery replacement, starters and alternators on site.",
+      "image_id": 13270
+    },
+    {
+      "name": "Brakes & A/C",
+      "desc": "Brake service and auto A/C repair.",
+      "image_id": 13260
+    },
+    {
+      "name": "Pre-purchase inspections",
+      "desc": "Know what you're buying before you buy it.",
+      "image_id": 4716
+    }
+  ],
+  "broll_eyebrow": "On the road",
+  "broll_title": "The shop comes to you",
+  "broll": [
+    {
+      "id": 13270,
+      "caption": "Under the hood"
+    },
+    {
+      "id": 13260,
+      "caption": "Brakes and suspension"
+    },
+    {
+      "id": 41937,
+      "caption": "Maintenance"
+    }
+  ],
+  "praise": [
+    {
+      "title": "Saves the day",
+      "text": "Visitors stuck with flat tires say Ron got them back on the road fast."
+    },
+    {
+      "title": "Fair pricing",
+      "text": "Fair prices are the most-mentioned theme across reviews."
+    },
+    {
+      "title": "Honest mechanic",
+      "text": "Customers trust his diagnosis and straight answers."
+    },
+    {
+      "title": "Goes the extra mile",
+      "text": "Reviewers note he helps even when he's off the clock."
+    }
+  ],
+  "gallery_ids": [
+    4716,
+    13270,
+    13260,
+    13180,
+    41937,
+    13270
+  ],
+  "hours": [
+    [
+      "Monday – Sunday",
+      "7:00 AM – 10:00 PM"
+    ],
+    [
+      "Service area",
+      "Panama City Beach & 30A"
+    ]
+  ]
+}

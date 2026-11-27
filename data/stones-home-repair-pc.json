@@ -1,0 +1,95 @@
+{
+  "slug": "stones-home-repair-pc",
+  "name": "Stone's Home Repair and Maintenance",
+  "category": "Handyman & home repair",
+  "schema_type": "HomeAndConstructionBusiness",
+  "city": "Panama City",
+  "state": "FL",
+  "address": "Panama City, FL 32405 (serving Panama City, Panama City Beach & Bay County)",
+  "phone": "(707) 295-4292",
+  "rating": 5.0,
+  "reviews": 43,
+  "theme": "charcoal",
+  "cta_label": "Call or Text",
+  "headline": "Home repairs done right, on time",
+  "subheadline": "Flooring, remodels, trim, painting and repairs across Panama City and Bay County. 5.0 stars from 43 Google reviews.",
+  "intro_eyebrow": "About",
+  "intro_title": "Quality work that keeps its timeline",
+  "intro": "Stone's Home Repair and Maintenance helps Bay County homeowners and rental owners get projects finished. Clients say Nick and his team communicate well, keep to tight timelines and stay on budget.",
+  "hero_video_id": 44858,
+  "services_title": "What we do",
+  "services": [
+    {
+      "name": "Remodeling",
+      "desc": "Bathroom and room remodels handled start to finish.",
+      "image_id": 39502
+    },
+    {
+      "name": "Flooring install & repair",
+      "desc": "New floors and repairs to existing ones.",
+      "image_id": 39684
+    },
+    {
+      "name": "Exterior painting",
+      "desc": "Fresh paint that protects and refreshes your home.",
+      "image_id": 36701
+    },
+    {
+      "name": "General repairs & maintenance",
+      "desc": "Trim work, furniture assembly, gutter cleaning and the to-do list.",
+      "image_id": 39692
+    }
+  ],
+  "broll_eyebrow": "On the job",
+  "broll_title": "Craft you can see",
+  "broll": [
+    {
+      "id": 778,
+      "caption": "Measured twice"
+    },
+    {
+      "id": 44858,
+      "caption": "Built solid"
+    },
+    {
+      "id": 32537,
+      "caption": "Finished clean"
+    }
+  ],
+  "praise": [
+    {
+      "title": "Keeps timelines",
+      "text": "Reviewers say jobs were finished on schedule, even with tight deadlines."
+    },
+    {
+      "title": "Quality workmanship",
+      "text": "Flooring, bathroom and trim work all praised for quality."
+    },
+    {
+      "title": "Great communication",
+      "text": "Clients describe friendly, responsive service throughout."
+    },
+    {
+      "title": "On budget",
+      "text": "Rental owners note projects were completed without going over budget."
+    }
+  ],
+  "gallery_ids": [
+    39502,
+    778,
+    36701,
+    44858,
+    39684,
+    2296
+  ],
+  "hours": [
+    [
+      "Quotes",
+      "Call or text (707) 295-4292"
+    ],
+    [
+      "Service area",
+      "Panama City, PCB & Bay County"
+    ]
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "stick-man-pressure-washing-pc",
+  "name": "Stick Man Pressure Washing",
+  "category": "Pressure washing",
+  "schema_type": "HomeAndConstructionBusiness",
+  "city": "Panama City",
+  "state": "FL",
+  "address": "Panama City, FL 32405 (serving Panama City & nearby)",
+  "phone": "(850) 319-5494",
+  "rating": 4.9,
+  "reviews": 34,
+  "theme": "navy",
+  "cta_label": "Get a Free Quote",
+  "headline": "Make it look brand new again",
+  "subheadline": "House washing, roofs, driveways, pavers and more in Panama City. 4.9 stars from 34 Google reviews.",
+  "intro_eyebrow": "About",
+  "intro_title": "Prompt, professional, spotless",
+  "intro": "Stick Man Pressure Washing cleans homes and businesses around Panama City. Customers say Damien responds quickly, starts fast, and leaves houses, porches and driveways looking freshly painted.",
+  "hero_video_id": 45755,
+  "services_title": "Pressure washing services",
+  "services": [
+    {
+      "name": "House soft washing",
+      "desc": "Gentle soft wash for siding, brick and mildew removal.",
+      "image_id": 47588
+    },
+    {
+      "name": "Roof cleaning",
+      "desc": "Shingle, concrete and tile roof cleaning.",
+      "image_id": 2859
+    },
+    {
+      "name": "Driveways & concrete",
+      "desc": "Driveway, sidewalk cleaning and concrete whitening.",
+      "image_id": 45755
+    },
+    {
+      "name": "Paver restoration & sealing",
+      "desc": "Pavers cleaned, restored and sealed.",
+      "image_id": 47586
+    }
+  ],
+  "broll_eyebrow": "The process",
+  "broll_title": "Pressure, rinse, shine",
+  "broll": [
+    {
+      "id": 45755,
+      "caption": "High-pressure rinse"
+    },
+    {
+      "id": 47588,
+      "caption": "Cleaning solution"
+    },
+    {
+      "id": 2859,
+      "caption": "Clean water finish"
+    }
+  ],
+  "praise": [
+    {
+      "title": "Quick response",
+      "text": "Reviewers say Damien answered fast and started the work quickly."
+    },
+    {
+      "title": "Like new again",
+      "text": "One customer said the house looked freshly painted afterward."
+    },
+    {
+      "title": "Professional and prompt",
+      "text": "Clients describe efficient, professional service."
+    },
+    {
+      "title": "Reasonable prices",
+      "text": "Customers call the pricing fair for the results."
+    }
+  ],
+  "gallery_ids": [
+    45755,
+    47588,
+    2859,
+    47586,
+    12726,
+    45755
+  ],
+  "hours": [
+    [
+      "Quotes",
+      "Call (850) 319-5494"
+    ],
+    [
+      "Service area",
+      "Panama City & nearby"
+    ]
+  ]
+}

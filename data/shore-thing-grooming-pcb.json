@@ -1,0 +1,95 @@
+{
+  "slug": "shore-thing-grooming-pcb",
+  "name": "Shore Thing Grooming",
+  "category": "Dog grooming",
+  "schema_type": "LocalBusiness",
+  "city": "Panama City Beach",
+  "state": "FL",
+  "address": "8317 Front Beach Rd Ste 29B, Panama City Beach, FL 32407",
+  "phone": "(850) 238-0699",
+  "rating": 4.8,
+  "reviews": 64,
+  "theme": "blush",
+  "cta_label": "Call or Text to Book",
+  "headline": "Beach-town grooming with a lot of love",
+  "subheadline": "Doodles, poodles and pups of every kind in Panama City Beach. 4.8 stars from 64 Google reviews.",
+  "intro_eyebrow": "Welcome",
+  "intro_title": "The nicest people, and they love dogs",
+  "intro": "Shore Thing Grooming is a busy Panama City Beach salon on Front Beach Road. Clients say the groomers are kind and calm with anxious dogs, skilled with doodle and poodle cuts, and fairly priced.",
+  "hero_video_id": 45887,
+  "services_title": "Grooming services",
+  "services": [
+    {
+      "name": "Full groom & haircut",
+      "desc": "Breed cuts and custom styles, including doodles and poodles.",
+      "image_id": 45890
+    },
+    {
+      "name": "Bath & brush",
+      "desc": "Clean, soft, fluffy coats.",
+      "image_id": 45885
+    },
+    {
+      "name": "Nail trims",
+      "desc": "Careful trims to keep paws comfortable.",
+      "image_id": 45891
+    },
+    {
+      "name": "Ear & eye cleaning",
+      "desc": "Gentle hygiene care that keeps pups healthy.",
+      "image_id": 45888
+    }
+  ],
+  "broll_eyebrow": "In the details",
+  "broll_title": "Calm, careful, gentle",
+  "broll": [
+    {
+      "id": 45884,
+      "caption": "Brush out"
+    },
+    {
+      "id": 45883,
+      "caption": "Scissor work"
+    },
+    {
+      "id": 45886,
+      "caption": "Bath time"
+    }
+  ],
+  "praise": [
+    {
+      "title": "Great with anxious dogs",
+      "text": "Reviewers say nervous pups are treated with patience and love."
+    },
+    {
+      "title": "Doodle and poodle pros",
+      "text": "Owners rave about poodle trims and doodle cuts."
+    },
+    {
+      "title": "Fair pricing",
+      "text": "Clients mention fair prices for excellent work."
+    },
+    {
+      "title": "Healthy, happy dogs",
+      "text": "One client's vet said the dog's skin, fur and ears looked perfect."
+    }
+  ],
+  "gallery_ids": [
+    45887,
+    1664,
+    45889,
+    45890,
+    45884,
+    45886
+  ],
+  "hours": [
+    [
+      "Tuesday – Friday",
+      "9:00 AM – 4:00 PM"
+    ],
+    [
+      "Booking",
+      "Call or text (850) 238-0699"
+    ]
+  ]
+}

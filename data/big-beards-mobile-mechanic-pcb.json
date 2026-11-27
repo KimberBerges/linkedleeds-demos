@@ -1,0 +1,95 @@
+{
+  "slug": "big-beards-mobile-mechanic-pcb",
+  "name": "Big Beard's Mobile Mechanic Services",
+  "category": "Mobile mechanic",
+  "schema_type": "AutoRepair",
+  "city": "Panama City Beach",
+  "state": "FL",
+  "address": "Panama City Beach, FL 32407 (we come to you, Bay County)",
+  "phone": "(850) 693-5932",
+  "rating": 5.0,
+  "reviews": 32,
+  "theme": "charcoal",
+  "cta_label": "Call Now",
+  "headline": "Car trouble? We come to you",
+  "subheadline": "Mobile auto repair across Bay County, 24 hours a day. 5.0 stars from 32 Google reviews.",
+  "intro_eyebrow": "About",
+  "intro_title": "Honest, affordable, same day",
+  "intro": "Big Beard's Mobile Mechanic Services is a local, certified mechanic serving Panama City Beach and Bay County. Customers say he communicates well, often comes the same day, and fixes the problem without charging an arm and a leg.",
+  "hero_video_id": 13270,
+  "services_title": "Mobile repair services",
+  "services": [
+    {
+      "name": "Diagnostics",
+      "desc": "Engine and electrical diagnostics wherever your car is.",
+      "image_id": 4716
+    },
+    {
+      "name": "Brakes",
+      "desc": "Brake changes and repair on site.",
+      "image_id": 13260
+    },
+    {
+      "name": "Batteries & alternators",
+      "desc": "Dead battery or alternator? Fixed where you're parked.",
+      "image_id": 13180
+    },
+    {
+      "name": "Oil changes & filters",
+      "desc": "Oil, air and cabin filters done at your home or work.",
+      "image_id": 41937
+    }
+  ],
+  "broll_eyebrow": "On the road",
+  "broll_title": "Real repairs, right where you are",
+  "broll": [
+    {
+      "id": 4716,
+      "caption": "Under the hood"
+    },
+    {
+      "id": 13260,
+      "caption": "Underneath the car"
+    },
+    {
+      "id": 41937,
+      "caption": "Fresh oil"
+    }
+  ],
+  "praise": [
+    {
+      "title": "Same-day help",
+      "text": "Reviewers say he came the same day, even on a Sunday afternoon."
+    },
+    {
+      "title": "Affordable pricing",
+      "text": "Customers mention fair prices without the shop markup."
+    },
+    {
+      "title": "Great communication",
+      "text": "Clients felt informed from diagnosis to fix."
+    },
+    {
+      "title": "Kind and professional",
+      "text": "People describe a friendly mechanic they'd call again."
+    }
+  ],
+  "gallery_ids": [
+    13270,
+    4716,
+    13260,
+    13180,
+    41937,
+    4716
+  ],
+  "hours": [
+    [
+      "Every day",
+      "Open 24 hours"
+    ],
+    [
+      "Service area",
+      "Panama City Beach & Bay County"
+    ]
+  ]
+}

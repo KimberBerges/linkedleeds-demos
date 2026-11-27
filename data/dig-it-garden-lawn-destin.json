@@ -1,0 +1,95 @@
+{
+  "slug": "dig-it-garden-lawn-destin",
+  "name": "Dig It Garden & Lawn",
+  "category": "Lawn care & landscaping",
+  "schema_type": "HomeAndConstructionBusiness",
+  "city": "Destin",
+  "state": "FL",
+  "address": "Destin, FL (serving Destin, Miramar Beach, Santa Rosa Beach & Niceville)",
+  "phone": "(850) 687-4678",
+  "rating": 5.0,
+  "reviews": 12,
+  "theme": "forest",
+  "cta_label": "Call for a Quote",
+  "headline": "We do the yard work no one else wants to",
+  "subheadline": "Mowing, sod, irrigation, mulch and landscape design in Destin and nearby. 5.0 stars on Google.",
+  "intro_eyebrow": "About",
+  "intro_title": "Personal care for your property",
+  "intro": "Dig It Garden & Lawn takes care of yards across Destin, Miramar Beach, Santa Rosa Beach and Niceville. Clients say Justin personalizes the work, treats every lawn with care and delivers better quality for a better price than the companies they tried before.",
+  "hero_video_id": 47172,
+  "services_title": "Lawn and garden services",
+  "services": [
+    {
+      "name": "Lawn mowing & maintenance",
+      "desc": "Regular mowing, edging and trimming.",
+      "image_id": 14383
+    },
+    {
+      "name": "Irrigation repair & maintenance",
+      "desc": "Sprinkler fixes and layout improvements.",
+      "image_id": 10475
+    },
+    {
+      "name": "Sod, mulch & weed control",
+      "desc": "New sod, fresh mulch and beds kept weed-free.",
+      "image_id": 4776
+    },
+    {
+      "name": "Landscape design",
+      "desc": "Plantings, flowers and trims planned around your yard.",
+      "image_id": 43702
+    }
+  ],
+  "broll_eyebrow": "On the job",
+  "broll_title": "Cared for like our own",
+  "broll": [
+    {
+      "id": 10472,
+      "caption": "Mowing"
+    },
+    {
+      "id": 43697,
+      "caption": "Planting"
+    },
+    {
+      "id": 4776,
+      "caption": "Watering"
+    }
+  ],
+  "praise": [
+    {
+      "title": "Truly cares",
+      "text": "Customers say Justin cares about their property like it's his own."
+    },
+    {
+      "title": "Quality plus price",
+      "text": "Reviewers found better work for a better price than other companies."
+    },
+    {
+      "title": "Personalized work",
+      "text": "Clients love that the work is tailored to how they want the yard to look."
+    },
+    {
+      "title": "Attention to detail",
+      "text": "Sprinklers, trims and flowers all get careful attention."
+    }
+  ],
+  "gallery_ids": [
+    47172,
+    14383,
+    43702,
+    32941,
+    4776,
+    10475
+  ],
+  "hours": [
+    [
+      "Quotes",
+      "Call (850) 687-4678"
+    ],
+    [
+      "Service area",
+      "Destin, Miramar Beach, 30A & Niceville"
+    ]
+  ]
+}

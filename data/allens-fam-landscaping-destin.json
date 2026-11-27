@@ -1,0 +1,95 @@
+{
+  "slug": "allens-fam-landscaping-destin",
+  "name": "Allen's Fam Landscaping",
+  "category": "Landscaping & lawn care",
+  "schema_type": "HomeAndConstructionBusiness",
+  "city": "Destin",
+  "state": "FL",
+  "address": "127 Harbor Blvd Ste 10, Destin, FL 32541",
+  "phone": "(850) 499-9196",
+  "rating": 5.0,
+  "reviews": 10,
+  "theme": "forest",
+  "cta_label": "Get a Free Estimate",
+  "headline": "Landscaping that goes above and beyond",
+  "subheadline": "Sod, drainage, lawn care, tree trimming and garden design across Niceville, Destin and Okaloosa County. 5.0 stars on Google.",
+  "intro_eyebrow": "About",
+  "intro_title": "A family crew that does it all",
+  "intro": "Allen's Fam Landscaping is a family-run crew serving Okaloosa County. Customers say Chris and his team show up promptly, communicate clearly and pay close attention to every detail, from new sod and French drains to tree trimming and debris removal.",
+  "hero_video_id": 32941,
+  "services_title": "Landscaping services",
+  "services": [
+    {
+      "name": "Sod installation",
+      "desc": "Fresh sod laid right for a full, green lawn.",
+      "image_id": 14383
+    },
+    {
+      "name": "Landscape & garden design",
+      "desc": "Beds, plantings and walkways designed for your yard.",
+      "image_id": 43697
+    },
+    {
+      "name": "Lawn care",
+      "desc": "Ongoing mowing and maintenance to keep things sharp.",
+      "image_id": 47172
+    },
+    {
+      "name": "Tree trimming & debris removal",
+      "desc": "Cleanup and trimming to keep your property safe and tidy.",
+      "image_id": 10472
+    }
+  ],
+  "broll_eyebrow": "On the job",
+  "broll_title": "Detail in every yard",
+  "broll": [
+    {
+      "id": 43702,
+      "caption": "Planting"
+    },
+    {
+      "id": 4776,
+      "caption": "Watering in"
+    },
+    {
+      "id": 47172,
+      "caption": "Lawn care"
+    }
+  ],
+  "praise": [
+    {
+      "title": "Above and beyond",
+      "text": "Reviewers say the crew handled drains, sod and sprinkler fixes all in one job."
+    },
+    {
+      "title": "Prompt and ready",
+      "text": "Customers mention the team arriving on time and working fast."
+    },
+    {
+      "title": "Clear communication",
+      "text": "Clients felt informed from the first call to the finished yard."
+    },
+    {
+      "title": "Attention to detail",
+      "text": "People say everything looked beautiful before the crew left."
+    }
+  ],
+  "gallery_ids": [
+    32941,
+    14383,
+    43697,
+    4776,
+    43702,
+    40656
+  ],
+  "hours": [
+    [
+      "Estimates",
+      "Call (850) 499-9196"
+    ],
+    [
+      "Service area",
+      "Niceville, Destin & Okaloosa County"
+    ]
+  ]
+}
