@@ -1,0 +1,95 @@
+{
+  "slug": "beach-bums-cleaning-destin",
+  "name": "Beach Bums Cleaning Service",
+  "category": "House & vacation rental cleaning",
+  "schema_type": "LocalBusiness",
+  "city": "Destin",
+  "state": "FL",
+  "address": "425 Ridge Wood Cir, Destin, FL 32541",
+  "phone": "(850) 420-5090",
+  "rating": 5.0,
+  "reviews": 11,
+  "theme": "navy",
+  "cta_label": "Call or Text",
+  "headline": "Spotless turnovers your guests notice",
+  "subheadline": "Home, condo and vacation rental cleaning across Destin. 5.0 stars from 11 Google reviews.",
+  "intro_eyebrow": "About",
+  "intro_title": "A husband-and-wife team you can count on",
+  "intro": "Beach Bums Cleaning Service is run by Felicia and her husband, who do the cleaning themselves. Rental owners who live hours away rely on them for on-time turnovers, thorough cleans that guests compliment, and quick replies by text.",
+  "hero_video_id": 21380,
+  "services_title": "Cleaning services",
+  "services": [
+    {
+      "name": "Vacation rental turnovers",
+      "desc": "Fast, thorough turnovers between guests, done on schedule.",
+      "image_id": 21380
+    },
+    {
+      "name": "Condo & home cleaning",
+      "desc": "Top-to-bottom cleaning for condos and homes.",
+      "image_id": 5319
+    },
+    {
+      "name": "Short-term rental portfolios",
+      "desc": "Reliable cleaning across multiple rental units.",
+      "image_id": 45039
+    },
+    {
+      "name": "An extra set of eyes",
+      "desc": "Owners say Felicia looks after their place like it's her own.",
+      "image_id": 34661
+    }
+  ],
+  "broll_eyebrow": "The details",
+  "broll_title": "Clean from top to bottom",
+  "broll": [
+    {
+      "id": 5319,
+      "caption": "Bathrooms sparkling"
+    },
+    {
+      "id": 45039,
+      "caption": "Fresh, clean fabrics"
+    },
+    {
+      "id": 29385,
+      "caption": "Kitchens guest-ready"
+    }
+  ],
+  "praise": [
+    {
+      "title": "Guests notice",
+      "text": "Owners say their guests comment on how clean the rentals are."
+    },
+    {
+      "title": "Always on time",
+      "text": "Reviewers praise prompt, professional turnovers that never get missed."
+    },
+    {
+      "title": "Easy to reach",
+      "text": "Clients love that they can simply text Felicia and hear back quickly."
+    },
+    {
+      "title": "Next-day availability",
+      "text": "One new client had their condo cleaned the very next day."
+    }
+  ],
+  "gallery_ids": [
+    21380,
+    5319,
+    45039,
+    34661,
+    29385,
+    10340
+  ],
+  "hours": [
+    [
+      "Every day",
+      "Open 24 hours"
+    ],
+    [
+      "Call or text",
+      "(850) 420-5090"
+    ]
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "slug": "emerald-wave-360-destin",
+  "name": "Emerald Wave 360",
+  "category": "Pressure washing & home services",
+  "schema_type": "HomeAndConstructionBusiness",
+  "city": "Destin",
+  "state": "FL",
+  "address": "164 Bent Arrow Dr, Destin, FL 32541",
+  "phone": "(850) 533-3302",
+  "rating": 5.0,
+  "reviews": 11,
+  "theme": "navy",
+  "cta_label": "Get a Free Quote",
+  "headline": "Pressure washing and home projects, done right",
+  "subheadline": "Soft washing, pressure washing, palm trimming and remodels from Destin to 30A. 5.0 stars from 11 Google reviews.",
+  "intro_eyebrow": "About",
+  "intro_title": "One crew for inside and out",
+  "intro": "Emerald Wave 360 serves Destin, Miramar Beach, Sandestin, Niceville and Fort Walton Beach. Clients say Luis and Frank do top-notch work at fair prices and send updates after every work day.",
+  "hero_video_id": 47588,
+  "services_title": "What we do",
+  "services": [
+    {
+      "name": "Pressure & soft washing",
+      "desc": "House washing that clients call the best they've had.",
+      "image_id": 47588
+    },
+    {
+      "name": "Palm tree trimming",
+      "desc": "Annual palm trimming for homes and condo properties.",
+      "image_id": 2859
+    },
+    {
+      "name": "Bathroom & kitchen remodels",
+      "desc": "Remodels for homeowners and property managers.",
+      "image_id": 39502
+    },
+    {
+      "name": "Repairs & renovations",
+      "desc": "Door replacements and full renovations for new homeowners.",
+      "image_id": 39692
+    }
+  ],
+  "broll_eyebrow": "On the job",
+  "broll_title": "Top-notch work, fair prices",
+  "broll": [
+    {
+      "id": 45755,
+      "caption": "Washed clean"
+    },
+    {
+      "id": 44858,
+      "caption": "Built to last"
+    },
+    {
+      "id": 32537,
+      "caption": "Finished right"
+    }
+  ],
+  "praise": [
+    {
+      "title": "Top-notch results",
+      "text": "A 30A homeowner called it the best house wash since moving in."
+    },
+    {
+      "title": "Fair pricing",
+      "text": "Reviewers say the price is very fair for the work."
+    },
+    {
+      "title": "Daily updates",
+      "text": "A property manager praised updates after each work day."
+    },
+    {
+      "title": "First-time buyer friendly",
+      "text": "New homeowners felt informed and taken care of the whole way."
+    }
+  ],
+  "gallery_ids": [
+    47588,
+    45755,
+    2859,
+    39502,
+    44858,
+    39692
+  ],
+  "hours": [
+    [
+      "Monday",
+      "7:30 AM - 7:00 PM"
+    ],
+    [
+      "Tuesday",
+      "7:00 AM - 7:00 PM"
+    ],
+    [
+      "Wednesday",
+      "7:00 AM - 7:30 PM"
+    ],
+    [
+      "Thursday",
+      "7:30 AM - 7:00 PM"
+    ],
+    [
+      "Friday",
+      "7:00 AM - 5:30 PM"
+    ],
+    [
+      "Saturday",
+      "9:30 AM - 2:00 PM"
+    ],
+    [
+      "Sunday",
+      "Closed"
+    ]
+  ]
+}

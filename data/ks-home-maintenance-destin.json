@@ -1,0 +1,95 @@
+{
+  "slug": "ks-home-maintenance-destin",
+  "name": "KS Home Maintenance",
+  "category": "Handyman & home maintenance",
+  "schema_type": "HomeAndConstructionBusiness",
+  "city": "Destin",
+  "state": "FL",
+  "address": "Destin, FL (serving Destin & Fort Walton Beach)",
+  "phone": "(850) 822-0888",
+  "rating": 5.0,
+  "reviews": 39,
+  "theme": "charcoal",
+  "cta_label": "Call or Text",
+  "headline": "One call for the whole to-do list",
+  "subheadline": "Drywall, tile, painting, flooring, trim and light electrical around Destin. 5.0 stars from 39 Google reviews.",
+  "intro_eyebrow": "About",
+  "intro_title": "Home maintenance since 2017",
+  "intro": "KS Home Maintenance has been taking care of Destin-area homes since 2017. Clients say Fabio and his team do careful work at honest, fair prices, fit around their schedules, and handle everything from leak repairs to getting a house ready to sell.",
+  "hero_video_id": 44858,
+  "services_title": "What we do",
+  "services": [
+    {
+      "name": "Drywall & tile repair",
+      "desc": "Patching and repairs after leaks, broken pipes and everyday wear.",
+      "image_id": 39502
+    },
+    {
+      "name": "Painting",
+      "desc": "Interior and exterior painting to refresh any room.",
+      "image_id": 36701
+    },
+    {
+      "name": "Flooring, molding & trim",
+      "desc": "New flooring, trim and molding installed cleanly.",
+      "image_id": 39684
+    },
+    {
+      "name": "Fixtures & light electrical",
+      "desc": "Light fixtures, ceiling fans, AC registers and toilet installs.",
+      "image_id": 39692
+    }
+  ],
+  "broll_eyebrow": "On the job",
+  "broll_title": "Careful work, fair prices",
+  "broll": [
+    {
+      "id": 778,
+      "caption": "Measured twice"
+    },
+    {
+      "id": 44858,
+      "caption": "Built solid"
+    },
+    {
+      "id": 32537,
+      "caption": "Finished clean"
+    }
+  ],
+  "praise": [
+    {
+      "title": "Honest, fair pricing",
+      "text": "Reviewers keep mentioning good, fair prices for quality work."
+    },
+    {
+      "title": "Repeat customers",
+      "text": "One client says they've used the team for about 15 jobs since the first repair."
+    },
+    {
+      "title": "Ready-to-sell help",
+      "text": "Homeowners got fixtures, fans and details handled before listing their homes."
+    },
+    {
+      "title": "Flexible scheduling",
+      "text": "Clients appreciate fast repairs that work around their schedule."
+    }
+  ],
+  "gallery_ids": [
+    39502,
+    778,
+    36701,
+    44858,
+    39684,
+    2296
+  ],
+  "hours": [
+    [
+      "Weekdays",
+      "From 8:00 AM"
+    ],
+    [
+      "Call or text",
+      "(850) 822-0888"
+    ]
+  ]
+}

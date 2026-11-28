@@ -1,0 +1,95 @@
+{
+  "slug": "my-ace-handyman-srb",
+  "name": "My Ace Handyman",
+  "category": "Handyman & remodeling",
+  "schema_type": "HomeAndConstructionBusiness",
+  "city": "Santa Rosa Beach",
+  "state": "FL",
+  "address": "2053 N County Hwy 393, Santa Rosa Beach, FL 32459",
+  "phone": "(850) 533-3332",
+  "rating": 5.0,
+  "reviews": 6,
+  "theme": "forest",
+  "cta_label": "Call or Text",
+  "headline": "The one person who does it all",
+  "subheadline": "Remodels, showers, cabinets, decks and repairs around Santa Rosa Beach and 30A. 5.0 stars on Google.",
+  "intro_eyebrow": "About",
+  "intro_title": "He does what he says",
+  "intro": "My Ace Handyman is Talat \"Ty\" Yildiz, a Santa Rosa Beach craftsman clients call an artist. Reviewers say he shows up on time, does exactly what he promises, and handles everything from small repairs to full remodels.",
+  "hero_video_id": 44858,
+  "services_title": "What I do",
+  "services": [
+    {
+      "name": "Remodels",
+      "desc": "Full remodels taken from start to a wonderful finish.",
+      "image_id": 39502
+    },
+    {
+      "name": "Showers & cabinets",
+      "desc": "Custom shower and cabinet work with thoughtful design.",
+      "image_id": 39684
+    },
+    {
+      "name": "Deck work",
+      "desc": "Deck repairs and building around your home.",
+      "image_id": 32537
+    },
+    {
+      "name": "Repairs, electrical & woodworking",
+      "desc": "Electrical, woodworking and the miscellaneous repair list.",
+      "image_id": 39692
+    }
+  ],
+  "broll_eyebrow": "Craftsmanship",
+  "broll_title": "Built with care",
+  "broll": [
+    {
+      "id": 778,
+      "caption": "Measured twice"
+    },
+    {
+      "id": 44858,
+      "caption": "Built solid"
+    },
+    {
+      "id": 32537,
+      "caption": "Finished clean"
+    }
+  ],
+  "praise": [
+    {
+      "title": "Does what he says",
+      "text": "Reviewers say Ty shows up and does exactly what he promises."
+    },
+    {
+      "title": "An artist",
+      "text": "Clients praise his designs for showers, cabinets and woodwork."
+    },
+    {
+      "title": "Best value",
+      "text": "One reviewer called it the best value they've found in the area."
+    },
+    {
+      "title": "Finally, one person",
+      "text": "A 24-year Blue Mountain Beach resident found one person to do it all."
+    }
+  ],
+  "gallery_ids": [
+    39502,
+    778,
+    39684,
+    44858,
+    32537,
+    2296
+  ],
+  "hours": [
+    [
+      "Monday - Friday",
+      "8:00 AM - 5:00 PM"
+    ],
+    [
+      "Saturday - Sunday",
+      "Closed"
+    ]
+  ]
+}

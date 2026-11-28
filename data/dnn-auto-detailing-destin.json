@@ -1,0 +1,95 @@
+{
+  "slug": "dnn-auto-detailing-destin",
+  "name": "DNN Auto Detailing",
+  "category": "Auto detailing",
+  "schema_type": "AutoWash",
+  "city": "Destin",
+  "state": "FL",
+  "address": "Destin, FL",
+  "phone": "(850) 764-2886",
+  "rating": 4.8,
+  "reviews": 6,
+  "theme": "charcoal",
+  "cta_label": "Call or Text",
+  "headline": "Make your car look new again",
+  "subheadline": "Interior and exterior detailing in Destin. 4.8 stars on Google.",
+  "intro_eyebrow": "About",
+  "intro_title": "Detail work at a fair price",
+  "intro": "DNN Auto Detailing gives Destin drivers a careful, hands-on detail. Customers say their cars came back looking like new, seat stains were gone, and the price was very reasonable.",
+  "hero_video_id": 47834,
+  "services_title": "Detailing services",
+  "services": [
+    {
+      "name": "Full detail",
+      "desc": "Inside and out, for a car that looks new again.",
+      "image_id": 47834
+    },
+    {
+      "name": "Interior & stain removal",
+      "desc": "Seats and carpets cleaned until the stains are gone.",
+      "image_id": 47832
+    },
+    {
+      "name": "Wash & polish",
+      "desc": "Hand wash and polish for a deep, clean shine.",
+      "image_id": 47830
+    },
+    {
+      "name": "Interior vacuum",
+      "desc": "Thorough vacuuming from the floor mats to the trunk.",
+      "image_id": 49064
+    }
+  ],
+  "broll_eyebrow": "The details",
+  "broll_title": "Pristine, inside and out",
+  "broll": [
+    {
+      "id": 47585,
+      "caption": "Hand washed"
+    },
+    {
+      "id": 47833,
+      "caption": "Polished to shine"
+    },
+    {
+      "id": 47832,
+      "caption": "Interior refreshed"
+    }
+  ],
+  "praise": [
+    {
+      "title": "Looks like new",
+      "text": "Customers say their cars looked like new when finished."
+    },
+    {
+      "title": "Stains gone",
+      "text": "One reviewer's stained seats came back clean."
+    },
+    {
+      "title": "Reasonable prices",
+      "text": "Reviewers mention very reasonable pricing for the quality."
+    },
+    {
+      "title": "Luxury-car care",
+      "text": "A BMW owner said his car looked pristine."
+    }
+  ],
+  "gallery_ids": [
+    47834,
+    47832,
+    47830,
+    49064,
+    47585,
+    47833
+  ],
+  "hours": [
+    [
+      "Daily",
+      "From 10:00 AM"
+    ],
+    [
+      "Call or text",
+      "(850) 764-2886"
+    ]
+  ]
+}
