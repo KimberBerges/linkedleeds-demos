@@ -1,0 +1,115 @@
+{
+  "slug": "sleek-look-fwb",
+  "name": "Sleek Look Hair & Nails",
+  "category": "Hair salon",
+  "schema_type": "HairSalon",
+  "city": "Fort Walton Beach",
+  "state": "FL",
+  "address": "525 Eglin Pkwy NE, Fort Walton Beach, FL 32547",
+  "phone": "(850) 863-0544",
+  "rating": 4.9,
+  "reviews": 229,
+  "theme": "espresso",
+  "cta_label": "Call to Book",
+  "headline": "Soft color and beautiful cuts on the Emerald Coast",
+  "subheadline": "Highlights, balayage, layered cuts and nails in Fort Walton Beach. 4.9 stars from 229 Google reviews.",
+  "intro_eyebrow": "Welcome",
+  "intro_title": "Stylists who listen first",
+  "intro": "Sleek Look Hair & Nails is a Fort Walton Beach salon known for natural-looking blonde, balayage and layered cuts. Clients say the stylists really listen, never rush, and leave hair looking soft, natural and healthy.",
+  "hero_video_id": 49556,
+  "services_title": "What we do best",
+  "services": [
+    {
+      "name": "Cuts & layers",
+      "desc": "Precision haircuts and soft, face-framing layers shaped around how you wear your hair.",
+      "image_id": 33257
+    },
+    {
+      "name": "Color & highlights",
+      "desc": "Dimensional highlights and all-over color with natural, soft results.",
+      "image_id": 49556
+    },
+    {
+      "name": "Balayage & blonding",
+      "desc": "Hand-painted balayage and blonde transformations that keep hair looking healthy.",
+      "image_id": 45893
+    },
+    {
+      "name": "Nails",
+      "desc": "Fresh, clean nail services to complete your look while you're here.",
+      "image_id": 13084
+    }
+  ],
+  "broll_eyebrow": "In the chair",
+  "broll_title": "Unhurried, careful work",
+  "broll": [
+    {
+      "id": 49556,
+      "caption": "Color that grows out beautifully"
+    },
+    {
+      "id": 45893,
+      "caption": "Blowouts and finishing"
+    },
+    {
+      "id": 15806,
+      "caption": "Nails while you're here"
+    }
+  ],
+  "praise": [
+    {
+      "title": "They really listen",
+      "text": "Reviewers say stylists take time to understand what they want first."
+    },
+    {
+      "title": "Never rushed",
+      "text": "Clients appreciate appointments that move at the pace good work needs."
+    },
+    {
+      "title": "Soft, natural color",
+      "text": "People love their natural-looking blonde and balayage results."
+    },
+    {
+      "title": "Fun and welcoming",
+      "text": "Guests describe a warm, easygoing salon that tries to fit them in."
+    }
+  ],
+  "gallery_ids": [
+    49556,
+    33257,
+    45893,
+    15806,
+    13088,
+    13084
+  ],
+  "hours": [
+    [
+      "Monday",
+      "Closed"
+    ],
+    [
+      "Tuesday",
+      "9:00 AM - 5:00 PM"
+    ],
+    [
+      "Wednesday",
+      "9:30 AM - 5:00 PM"
+    ],
+    [
+      "Thursday",
+      "9:00 AM - 5:00 PM"
+    ],
+    [
+      "Friday",
+      "9:00 AM - 5:00 PM"
+    ],
+    [
+      "Saturday",
+      "9:00 AM - 5:00 PM"
+    ],
+    [
+      "Sunday",
+      "Closed"
+    ]
+  ]
+}

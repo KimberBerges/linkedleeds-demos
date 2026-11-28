@@ -1,0 +1,107 @@
+{
+  "slug": "splendid-strands-fwb",
+  "name": "Splendid Strands Hair Salon",
+  "category": "Curly & natural hair salon",
+  "schema_type": "HairSalon",
+  "city": "Fort Walton Beach",
+  "state": "FL",
+  "address": "4 Holmes Blvd NW, Fort Walton Beach, FL 32548",
+  "phone": "(850) 427-2600",
+  "rating": 5.0,
+  "reviews": 188,
+  "theme": "plum",
+  "cta_label": "Book a Consultation",
+  "headline": "Artistry for curly, natural and textured hair",
+  "subheadline": "A one-stylist private suite by Brigette in Fort Walton Beach. 5.0 stars from 188 Google reviews.",
+  "intro_eyebrow": "Meet Brigette",
+  "intro_title": "Consultation first, always",
+  "intro": "Brigette is the owner and sole stylist behind Splendid Strands, in a private salon suite on Holmes Blvd. Every new client starts with a thorough consultation so hair goals and expectations line up, and clients praise her professionalism, artistry and deep knowledge of hair health.",
+  "hero_video_id": 51997,
+  "services_title": "Specialties and care",
+  "services": [
+    {
+      "name": "Curly & textured hair",
+      "desc": "Tailored cutting, shaping and care for curly and textured hair.",
+      "image_id": 52004
+    },
+    {
+      "name": "Natural hair care",
+      "desc": "Health-first maintenance focused on moisture, strength and long-term vitality.",
+      "image_id": 48685
+    },
+    {
+      "name": "Silk press & straightening",
+      "desc": "Smooth silk presses and sleek styling that protect your texture.",
+      "image_id": 33257
+    },
+    {
+      "name": "Pixie cuts & special occasions",
+      "desc": "Precision short cuts and polished styling for milestone moments.",
+      "image_id": 45893
+    }
+  ],
+  "broll_eyebrow": "Celebrating every curl",
+  "broll_title": "Healthy hair, beautifully styled",
+  "broll": [
+    {
+      "id": 52004,
+      "caption": "Definition, moisture, health"
+    },
+    {
+      "id": 45893,
+      "caption": "Smooth, protected styling"
+    },
+    {
+      "id": 51997,
+      "caption": "Styles that celebrate your texture"
+    }
+  ],
+  "praise": [
+    {
+      "title": "Thorough consultation first",
+      "text": "Clients appreciate aligning on goals and hair health before booking."
+    },
+    {
+      "title": "Old-school professionalism",
+      "text": "Reviewers note Brigette's classic standards, punctuality and pride in her work."
+    },
+    {
+      "title": "A calm private studio",
+      "text": "The private suite feels unhurried and personal from start to finish."
+    },
+    {
+      "title": "Loyal for years",
+      "text": "Many clients say they've followed her care for years."
+    }
+  ],
+  "gallery_ids": [
+    51997,
+    52004,
+    48685,
+    52003,
+    33257,
+    45893
+  ],
+  "hours": [
+    [
+      "Tuesday",
+      "10:00 AM - 5:00 PM"
+    ],
+    [
+      "Wednesday",
+      "10:00 AM - 5:00 PM"
+    ],
+    [
+      "Thursday",
+      "10:00 AM - 5:00 PM"
+    ],
+    [
+      "Friday",
+      "10:00 AM - 5:00 PM"
+    ],
+    [
+      "Saturday - Monday",
+      "Closed"
+    ]
+  ]
+}
