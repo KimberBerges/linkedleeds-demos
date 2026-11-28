@@ -1,0 +1,115 @@
+{
+  "slug": "all-in-renovations-fwb",
+  "name": "All-In Renovations, LLC",
+  "category": "Painting, drywall & renovations",
+  "schema_type": "HomeAndConstructionBusiness",
+  "city": "Fort Walton Beach",
+  "state": "FL",
+  "address": "11 Holmes Blvd NW, Fort Walton Beach, FL 32548",
+  "phone": "(850) 467-7530",
+  "rating": 4.4,
+  "reviews": 38,
+  "theme": "navy",
+  "cta_label": "Call or Text",
+  "headline": "Painting and renovations, done all-in",
+  "subheadline": "Custom painting, cabinets, drywall and remodels around Fort Walton Beach. 4.4 stars from 38 Google reviews.",
+  "intro_eyebrow": "About",
+  "intro_title": "Serving the Emerald Coast since 2018",
+  "intro": "All-In Renovations has been painting and renovating homes and condos across Okaloosa, Walton, Santa Rosa and Bay counties since 2018. Clients say James shows up fast with a fair quote, takes pride in the details and brings their vision to life, from accent walls to full repaints.",
+  "hero_video_id": 36701,
+  "services_title": "What we do",
+  "services": [
+    {
+      "name": "Custom & interior painting",
+      "desc": "Walls, trim, accent walls and full repaints.",
+      "image_id": 36701
+    },
+    {
+      "name": "Cabinet & door painting",
+      "desc": "Fresh finishes for cabinets and doors.",
+      "image_id": 39684
+    },
+    {
+      "name": "Drywall & ceiling repair",
+      "desc": "Patching, water-damage repairs and new ceiling finishes.",
+      "image_id": 39502
+    },
+    {
+      "name": "Remodels",
+      "desc": "Floors, wall texture and full refreshes for homes and condos.",
+      "image_id": 44858
+    }
+  ],
+  "broll_eyebrow": "On the job",
+  "broll_title": "Pride in every project",
+  "broll": [
+    {
+      "id": 36701,
+      "caption": "Clean lines"
+    },
+    {
+      "id": 39502,
+      "caption": "Smooth walls"
+    },
+    {
+      "id": 778,
+      "caption": "Done right"
+    }
+  ],
+  "praise": [
+    {
+      "title": "Fast, fair quotes",
+      "text": "One client says James showed up a few hours after the call with a fair quote."
+    },
+    {
+      "title": "Top-notch painting",
+      "text": "Reviewers praise the quality and finish on walls, trim and accent walls."
+    },
+    {
+      "title": "Clear communication",
+      "text": "Condo owners appreciate straight answers on prices, materials and timing."
+    },
+    {
+      "title": "Goes above and beyond",
+      "text": "Customers say no job felt too big and the crew went the extra mile."
+    }
+  ],
+  "gallery_ids": [
+    36701,
+    39502,
+    39684,
+    44858,
+    778,
+    2296
+  ],
+  "hours": [
+    [
+      "Monday",
+      "Open 24 hours"
+    ],
+    [
+      "Tuesday",
+      "Open 24 hours"
+    ],
+    [
+      "Wednesday",
+      "Open 24 hours"
+    ],
+    [
+      "Thursday",
+      "Open 24 hours"
+    ],
+    [
+      "Friday",
+      "Open 24 hours"
+    ],
+    [
+      "Saturday",
+      "Open 24 hours"
+    ],
+    [
+      "Sunday",
+      "Open 24 hours"
+    ]
+  ]
+}

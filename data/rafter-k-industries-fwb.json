@@ -1,0 +1,115 @@
+{
+  "slug": "rafter-k-industries-fwb",
+  "name": "Rafter K Industries LLC",
+  "category": "Handyman & home projects",
+  "schema_type": "HomeAndConstructionBusiness",
+  "city": "Fort Walton Beach",
+  "state": "FL",
+  "address": "213 Costaki Ct NW, Fort Walton Beach, FL 32548",
+  "phone": "(850) 582-6268",
+  "rating": 5.0,
+  "reviews": 6,
+  "theme": "charcoal",
+  "cta_label": "Call or Text",
+  "headline": "Quality craftsmanship that doesn't break the bank",
+  "subheadline": "Bathrooms, sheetrock, flooring, fans, railings and more around Fort Walton Beach. 5.0 stars on Google.",
+  "intro_eyebrow": "About",
+  "intro_title": "Meet Tyler",
+  "intro": "Rafter K Industries is Tyler's Fort Walton Beach handyman and home-project company, serving Okaloosa, Santa Rosa and Walton counties. Clients hire him once and keep coming back, for bathroom redos, sheetrock, RV floors, ceiling fans, bead board and even custom metal railings.",
+  "hero_video_id": 44858,
+  "services_title": "What we do",
+  "services": [
+    {
+      "name": "Bathroom remodels",
+      "desc": "Bathrooms redone from start to finish.",
+      "image_id": 39684
+    },
+    {
+      "name": "Sheetrock & bead board",
+      "desc": "Hanging, finishing and repairs.",
+      "image_id": 39502
+    },
+    {
+      "name": "Flooring",
+      "desc": "New floors for homes and even RVs.",
+      "image_id": 32537
+    },
+    {
+      "name": "Fans, fixtures & railings",
+      "desc": "Large ceiling fans, fixtures and custom metal railings.",
+      "image_id": 39692
+    }
+  ],
+  "broll_eyebrow": "On the job",
+  "broll_title": "Attention to detail",
+  "broll": [
+    {
+      "id": 778,
+      "caption": "Measured twice"
+    },
+    {
+      "id": 44858,
+      "caption": "Built solid"
+    },
+    {
+      "id": 32537,
+      "caption": "Finished clean"
+    }
+  ],
+  "praise": [
+    {
+      "title": "Above expectations",
+      "text": "Homeowners say every project turned out better than they hoped."
+    },
+    {
+      "title": "Fair prices",
+      "text": "Reviewers mention quality work at prices that don't break the bank."
+    },
+    {
+      "title": "Attention to detail",
+      "text": "Clients keep pointing out Tyler's detail and craftsmanship."
+    },
+    {
+      "title": "On time",
+      "text": "Jobs are finished in a timely manner, and he actually shows up."
+    }
+  ],
+  "gallery_ids": [
+    39502,
+    778,
+    39684,
+    44858,
+    32537,
+    2296
+  ],
+  "hours": [
+    [
+      "Monday",
+      "8 AM\u20135 PM"
+    ],
+    [
+      "Tuesday",
+      "8 AM\u20135 PM"
+    ],
+    [
+      "Wednesday",
+      "8 AM\u20135 PM"
+    ],
+    [
+      "Thursday",
+      "8 AM\u20135 PM"
+    ],
+    [
+      "Friday",
+      "8 AM\u20135 PM"
+    ],
+    [
+      "Saturday",
+      "Closed"
+    ],
+    [
+      "Sunday",
+      "Closed"
+    ]
+  ]
+}

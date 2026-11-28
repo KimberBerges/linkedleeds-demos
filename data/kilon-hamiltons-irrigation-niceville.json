@@ -1,0 +1,115 @@
+{
+  "slug": "kilon-hamiltons-irrigation-niceville",
+  "name": "Kilon Hamilton's Landscaping & Irrigation LLC",
+  "category": "Irrigation, wells & landscaping",
+  "schema_type": "HomeAndConstructionBusiness",
+  "city": "Niceville",
+  "state": "FL",
+  "address": "1451 Cat-Mar Rd, Niceville, FL 32578",
+  "phone": "(850) 585-2614",
+  "rating": 4.7,
+  "reviews": 15,
+  "theme": "forest",
+  "cta_label": "Call or Text",
+  "headline": "Sprinklers, wells and pumps, fixed right",
+  "subheadline": "Irrigation repair, well pumps and landscaping in Niceville. 4.7 stars from 15 Google reviews.",
+  "intro_eyebrow": "About",
+  "intro_title": "27 years of experience",
+  "intro": "Kilon Hamilton has been working on irrigation and wells for 27 years. Niceville homeowners call him when sprinklers won't shut off, a well pump fails or a zone stops working, and he troubleshoots step by step, keeps them posted and saves them money where he can.",
+  "hero_video_id": 47172,
+  "services_title": "What we do",
+  "services": [
+    {
+      "name": "Irrigation repair",
+      "desc": "Broken pipes, valves, solenoids and zones that won't work.",
+      "image_id": 14383
+    },
+    {
+      "name": "Well pumps",
+      "desc": "Jet pumps, foot valves and new pump installs.",
+      "image_id": 43697
+    },
+    {
+      "name": "Sprinkler maintenance",
+      "desc": "Keeping systems running so your lawn stays green.",
+      "image_id": 4776
+    },
+    {
+      "name": "Landscaping",
+      "desc": "Yard work and landscaping around Niceville.",
+      "image_id": 10472
+    }
+  ],
+  "broll_eyebrow": "In the yard",
+  "broll_title": "Honest, fair and thorough",
+  "broll": [
+    {
+      "id": 47172,
+      "caption": "Green lawns"
+    },
+    {
+      "id": 10472,
+      "caption": "Healthy yards"
+    },
+    {
+      "id": 43702,
+      "caption": "Done right"
+    }
+  ],
+  "praise": [
+    {
+      "title": "True professional",
+      "text": "Customers say Kilon is upfront and explains every option."
+    },
+    {
+      "title": "Saved them money",
+      "text": "One family's well was saved instead of having a new one dug."
+    },
+    {
+      "title": "Creative fixes",
+      "text": "A cracked pipe under a driveway was repaired without cutting concrete."
+    },
+    {
+      "title": "Quick and fair",
+      "text": "Reviewers mention fast visits and reasonable pricing."
+    }
+  ],
+  "gallery_ids": [
+    47172,
+    14383,
+    4776,
+    43697,
+    10475,
+    40656
+  ],
+  "hours": [
+    [
+      "Monday",
+      "8 AM\u20135 PM"
+    ],
+    [
+      "Tuesday",
+      "8 AM\u20135 PM"
+    ],
+    [
+      "Wednesday",
+      "8 AM\u20135 PM"
+    ],
+    [
+      "Thursday",
+      "8 AM\u20135 PM"
+    ],
+    [
+      "Friday",
+      "8 AM\u20135 PM"
+    ],
+    [
+      "Saturday",
+      "8 AM\u20135 PM"
+    ],
+    [
+      "Sunday",
+      "Closed"
+    ]
+  ]
+}

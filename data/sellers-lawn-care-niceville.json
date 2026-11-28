@@ -1,0 +1,115 @@
+{
+  "slug": "sellers-lawn-care-niceville",
+  "name": "Sellers Lawn Care LLC",
+  "category": "Lawn care",
+  "schema_type": "HomeAndConstructionBusiness",
+  "city": "Niceville",
+  "state": "FL",
+  "address": "303 Niceville Ave, Niceville, FL 32578",
+  "phone": "(706) 502-7894",
+  "rating": 5.0,
+  "reviews": 8,
+  "theme": "forest",
+  "cta_label": "Call or Text",
+  "headline": "Clean edges. Sharp yards. Every visit.",
+  "subheadline": "Lawn mowing and maintenance in Niceville, Bluewater Bay, Shalimar, Fort Walton Beach and Destin. 5.0 stars on Google.",
+  "intro_eyebrow": "About",
+  "intro_title": "Meet Levi",
+  "intro": "Sellers Lawn Care is Levi's Niceville lawn company. Customers say he's on time, communicates well, pays close attention to detail and even goes back to fix anything he isn't happy with.",
+  "hero_video_id": 14383,
+  "services_title": "What we do",
+  "services": [
+    {
+      "name": "Mowing",
+      "desc": "A clean, even cut every visit.",
+      "image_id": 47172
+    },
+    {
+      "name": "Edging & trimming",
+      "desc": "Crisp edges and neatly trimmed bushes.",
+      "image_id": 43697
+    },
+    {
+      "name": "Yard maintenance",
+      "desc": "Regular care to keep the yard looking its best.",
+      "image_id": 4776
+    },
+    {
+      "name": "Clean-up",
+      "desc": "Debris cleared and everything left tidy.",
+      "image_id": 10472
+    }
+  ],
+  "broll_eyebrow": "In the yard",
+  "broll_title": "Dependable, detailed work",
+  "broll": [
+    {
+      "id": 47172,
+      "caption": "Fresh cut"
+    },
+    {
+      "id": 10472,
+      "caption": "Clean edges"
+    },
+    {
+      "id": 43702,
+      "caption": "Done right"
+    }
+  ],
+  "praise": [
+    {
+      "title": "Attention to detail",
+      "text": "Clean edges, trimmed bushes and a flawless mow, customers say."
+    },
+    {
+      "title": "On time",
+      "text": "Reviewers call Levi punctual and dependable."
+    },
+    {
+      "title": "Fair pricing",
+      "text": "Customers mention competitive, reasonable rates."
+    },
+    {
+      "title": "Gets it right",
+      "text": "He even took the time to fix what he wasn't satisfied with."
+    }
+  ],
+  "gallery_ids": [
+    14383,
+    47172,
+    4776,
+    43697,
+    10475,
+    40656
+  ],
+  "hours": [
+    [
+      "Monday",
+      "8 AM\u20135 PM"
+    ],
+    [
+      "Tuesday",
+      "8 AM\u20135 PM"
+    ],
+    [
+      "Wednesday",
+      "8 AM\u20135 PM"
+    ],
+    [
+      "Thursday",
+      "8 AM\u20135 PM"
+    ],
+    [
+      "Friday",
+      "8 AM\u20135 PM"
+    ],
+    [
+      "Saturday",
+      "8 AM\u20135 PM"
+    ],
+    [
+      "Sunday",
+      "Closed"
+    ]
+  ]
+}
